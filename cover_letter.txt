@@ -1,0 +1,23 @@
+Dear Editors,
+
+I am submitting my manuscript titled "Neurodevelopment as Blueprint: Biological Validation of the Dual-Architecture AGI Framework" for consideration in the Journal of Artificial General Intelligence.
+
+This paper presents a novel cross-disciplinary argument: the human neurodevelopmental timeline maps precisely onto the dual-architecture AGI system previously proposed by the same author (Chennan, 2026, Zenodo). The work is positioned at the intersection of developmental neuroscience and AGI architecture design, contributing to JAGI's mission of advancing theoretical and practical foundations for artificial general intelligence.
+
+Key contributions:
+1. A systematic 11-component correspondence table mapping AGI architecture components to their neurobiological counterparts, each with developmental timeline and key literature references.
+2. Four original theoretical arguments addressing standard objections (causality, time scale, abstractness, Transformer bypass).
+3. Preliminary experimental validation of two core mechanisms on the MuJoCo physics engine — EWC anti-forgetting (showing 77.8% vs 65.4% retention) and curiosity-driven exploration (showing 6.7x deeper exploration with intrinsic reward).
+4. A concrete mathematical formulation of physical-to-social token migration via domain-transfer matrices.
+
+All experiments were completed entirely on consumer-grade hardware (MacBook, no GPU), demonstrating that the proposed architecture's core mechanisms are verifiable without expensive infrastructure.
+
+I believe this work aligns well with JAGI's scope of interdisciplinary AGI research, particularly its emphasis on biologically-inspired cognitive architectures and theoretical foundations. The manuscript is not under consideration elsewhere.
+
+I confirm no conflicts of interest and no external funding.
+
+Thank you for your consideration.
+
+Sincerely,
+Chennan
+cn85608869@gmail.com
