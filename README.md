@@ -99,7 +99,15 @@ Produces both Chinese and English `.docx` manuscripts, with all experiment figur
 
 ---
 
-## Citation
+## Papers
+
+### Paper 1: Neurodevelopment as Blueprint
+[Frontiers in Robotics and AI, under review] — Biological validation of the Twins architecture through 7 MuJoCo experiments.
+
+### Paper 2: Twins for Continual LLM Learning  
+[Preprint] — Local demonstration with Qwen2.5-0.5B showing LoRA weight migration + self-confidence detection. 5 experiment versions (v1-v5), from prompt-level to weight-level token migration.
+
+Both papers available in `paper/`. All experiments in `experiments/`.
 
 ```bibtex
 @article{chennan2026twins,
